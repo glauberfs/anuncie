@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="358" height="190" viewBox="0 0 358 190">
+    <defs>
+        <linearGradient id="prefix__c" x1="0%" x2="100%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#FFF" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#FFF"/>
+        </linearGradient>
+        <path id="prefix__a" d="M0.331 0.964H165.66899999999998V93.812H0.331z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#E5E5E5" d="M5 0h348c2.762 0 5 2.239 5 5v180c0 2.762-2.238 5-5 5H5c-2.761 0-5-2.238-5-5V5c0-2.761 2.239-5 5-5z"/>
+        <g>
+            <path fill="#000" fill-rule="nonzero" d="M90.745 143.008c24.679 0 44.686.667 44.686 1.49 0 .822-20.007 1.489-44.686 1.489-24.68 0-44.687-.667-44.687-1.489.001-.823 20.007-1.49 44.687-1.49z" opacity=".1" transform="translate(89 24)"/>
+            <path fill="#B6B9BA" d="M60.457 144.048L60.457 142.353 66.917 141.501 72.211 123.147 89.738 123.147 90.248 123.147 107.775 123.147 113.069 141.501 119.528 142.353 119.528 144.048 60.457 144.048z" transform="translate(89 24)"/>
+            <path fill="#818387" d="M71.064 127.119L72.21 123.147 89.737 123.147 90.247 123.147 107.774 123.147 108.92 127.119z" opacity=".5" transform="translate(89 24)"/>
+            <path fill="#474E5D" d="M.38 106.763V3.984C.38 1.791 2.158.012 4.352.012h171.297c2.193 0 3.972 1.778 3.972 3.972v102.779H.38z" transform="translate(89 24)"/>
+            <path fill="#B6B9BA" d="M175.648 123.147H4.352c-2.193 0-3.972-1.778-3.972-3.972v-12.413h179.24v12.413c0 2.194-1.778 3.972-3.972 3.972z" transform="translate(89 24)"/>
+            <path fill="#818387" d="M90 110.659c1.958 0 3.545 1.587 3.545 3.546 0 1.958-1.587 3.544-3.545 3.544s-3.545-1.586-3.545-3.544c0-1.959 1.587-3.546 3.545-3.546z" opacity=".9" transform="translate(89 24)"/>
+            <path fill="#FFF" d="M172.669 6.964L172.669 99.812 7.331 99.812 7.331 6.964z" transform="translate(89 24)"/>
+            <g transform="translate(89 24) translate(7 6)">
+                <mask id="prefix__b" fill="#fff">
+                    <use xlink:href="#prefix__a"/>
+                </mask>
+                <g mask="url(#prefix__b)">
+                    <g>
+                        <path fill="#0C7BC7" d="M26.228 19.244H136.436V47.75H26.228z" transform="translate(0 2)"/>
+                        <path fill="#C6C6C6" fill-rule="nonzero" d="M26.228 50.324H100.96199999999999V84.752H26.228zM103.937 50.324H120.328V58.855999999999995H103.937zM103.937 61.831H120.328V70.363H103.937z" transform="translate(0 2)"/>
+                        <path stroke="#C2C3C4" stroke-width=".25" d="M103.937 60.315h32.574M103.937 71.879h32.574" transform="translate(0 2)"/>
+                        <path fill="#C2C3C4" fill-rule="nonzero" d="M123.34 50.324H136.586V51.39H123.34zM123.34 52.121H136.586V53.187000000000005H123.34zM123.34 53.917H136.586V54.983000000000004H123.34zM123.34 55.713H131.46V56.779H123.34zM123.34 62.533H136.586V63.599000000000004H123.34zM123.34 64.329H136.586V65.395H123.34zM123.34 66.125H136.586V67.191H123.34zM123.34 67.922H131.46V68.988H123.34zM26.228 87.596H32.482V88.596H26.228zM26.228 90.178H58.864000000000004V92.199H26.228zM26.228 93.188H49.54600000000001V95.209H26.228zM65.038 87.034H81.53999999999999V96.01400000000001H65.038zM84.459 87.596H94.899V88.596H84.459zM84.459 90.178H98.38V91.52499999999999H84.459zM84.459 91.974H100.962V93.321H84.459zM84.459 93.77H89.68V95.118H84.459z" transform="translate(0 2)"/>
+                        <path fill="#C6C6C6" fill-rule="nonzero" d="M103.937 74.741H136.586V96.014H103.937z" transform="translate(0 2)"/>
+                        <path fill="#C2C3C4" fill-rule="nonzero" d="M62.625 2.761H76.82300000000001V5.118H62.625zM79.688 2.761H88.304V5.118H79.688zM91.363 2.761H106.781V5.118H91.363zM109.176 2.761H122.068V5.118H109.176zM123.546 2.761H136.437V5.118H123.546z" transform="translate(0 2)"/>
+                        <path fill="#C2C3C4" d="M26.228 0.646H45.729V7.232H26.228z" transform="translate(0 2)"/>
+                        <path fill="#C6C6C6" d="M0.331 12.771H165.66899999999998V16.363H0.331z" transform="translate(0 2)"/>
+                        <path fill="#9E9E9E" d="M0.331 9.178H165.66899999999998V12.771H0.331z" transform="translate(0 2)"/>
+                    </g>
+                </g>
+            </g>
+            <path fill="#000" fill-rule="nonzero" d="M90.248 2.628c.469 0 .848.38.848.848 0 .468-.379.848-.848.848s-.848-.38-.848-.848c0-.468.379-.848.848-.848z" transform="translate(89 24)"/>
+            <path fill="url(#prefix__c)" d="M172.669 99.812L72.87 99.812 172.669 6.964z" opacity=".3" transform="translate(89 24)"/>
+        </g>
+    </g>
+</svg>
